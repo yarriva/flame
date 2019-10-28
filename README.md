@@ -1,2 +1,3 @@
 # flame
-Result of a jQuery tutorial
+Result of a jQuery tutorial:
+https://yarriva.com/projects/Flame.html
