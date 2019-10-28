@@ -1,6 +1,6 @@
 # flame
 
-Result of a jQuery tutorial for PhoneGap:
+Result of a 2013 jQuery tutorial for PhoneGap:
 https://yarriva.com/projects/Flame.html
 
 APK:
